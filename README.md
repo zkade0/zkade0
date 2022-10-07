@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @zkade0
-- 👀 I’m interested in cyber security 
-- 🌱 I’m currently learning computer science 
-- 💞️ I’m looking to collaborate on anything
+- 👋 Hi, I’m Kaden (@zkade0)
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning computer science and tinkering with networking and cybersecurity. 
+- 💞️ I’m looking to collaborate on anything, really. I'm still learning, but I'm always willing to help.
 - 📫 How to reach me DM me on GitHub or Twitter @_kade__4
 
 <!---
